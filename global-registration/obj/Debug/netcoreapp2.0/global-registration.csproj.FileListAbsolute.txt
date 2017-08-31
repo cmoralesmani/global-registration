@@ -1,0 +1,11 @@
+C:\Users\cmorales\Desktop\global-registration\global-registration\bin\Debug\netcoreapp2.0\global-registration.deps.json
+C:\Users\cmorales\Desktop\global-registration\global-registration\bin\Debug\netcoreapp2.0\global-registration.runtimeconfig.json
+C:\Users\cmorales\Desktop\global-registration\global-registration\bin\Debug\netcoreapp2.0\global-registration.runtimeconfig.dev.json
+C:\Users\cmorales\Desktop\global-registration\global-registration\bin\Debug\netcoreapp2.0\global-registration.dll
+C:\Users\cmorales\Desktop\global-registration\global-registration\bin\Debug\netcoreapp2.0\global-registration.pdb
+C:\Users\cmorales\Desktop\global-registration\global-registration\obj\Debug\netcoreapp2.0\global-registration.csprojResolveAssemblyReference.cache
+C:\Users\cmorales\Desktop\global-registration\global-registration\obj\Debug\netcoreapp2.0\global-registration.csproj.CoreCompileInputs.cache
+C:\Users\cmorales\Desktop\global-registration\global-registration\obj\Debug\netcoreapp2.0\global-registration.AssemblyInfoInputs.cache
+C:\Users\cmorales\Desktop\global-registration\global-registration\obj\Debug\netcoreapp2.0\global-registration.AssemblyInfo.cs
+C:\Users\cmorales\Desktop\global-registration\global-registration\obj\Debug\netcoreapp2.0\global-registration.dll
+C:\Users\cmorales\Desktop\global-registration\global-registration\obj\Debug\netcoreapp2.0\global-registration.pdb
